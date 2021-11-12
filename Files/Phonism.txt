@@ -1,0 +1,138 @@
+<YealinkIPPhoneDirectory>
+    <DirectoryEntry>
+        <Name>3C Payments Support</Name>
+        <Telephone>01805352204</Telephone>
+    </DirectoryEntry>
+    <DirectoryEntry>
+        <Name>AA Taxi</Name>
+        <Telephone>01749059960</Telephone>
+    </DirectoryEntry>
+    <DirectoryEntry>
+        <Name>Airport Police</Name>
+        <Telephone>0899791510</Telephone>
+    </DirectoryEntry>
+    <DirectoryEntry>
+        <Name>Ambulance</Name>
+        <Telephone>0112</Telephone>
+    </DirectoryEntry>
+    <DirectoryEntry>
+        <Name>Andres - MUCOX</Name>
+        <Telephone>015128111848</Telephone>
+    </DirectoryEntry>
+    <DirectoryEntry>
+        <Name>Booking Com Support</Name>
+        <Telephone>089206063330</Telephone>
+    </DirectoryEntry>
+    <DirectoryEntry>
+        <Name>Cinzia - MUCOX</Name>
+        <Telephone>017646141186</Telephone>
+    </DirectoryEntry>
+    <DirectoryEntry>
+        <Name>Dragana - MUCOX</Name>
+        <Telephone>015758904642</Telephone>
+    </DirectoryEntry>
+    <DirectoryEntry>
+        <Name>Erding Taxi</Name>
+        <Telephone>0812214177</Telephone>
+    </DirectoryEntry>
+    <DirectoryEntry>
+        <Name>Expedia Hotel Service</Name>
+        <Telephone>069945192100</Telephone>
+    </DirectoryEntry>
+    <DirectoryEntry>
+        <Name>Gabriel - MUCOX</Name>
+        <Telephone>015224541413</Telephone>
+    </DirectoryEntry>
+    <DirectoryEntry>
+        <Name>Hoist Support</Name>
+        <Telephone>008001800894</Telephone>
+    </DirectoryEntry>
+    <DirectoryEntry>
+        <Name>HSK Mariana</Name>
+        <Telephone>015778671020</Telephone>
+    </DirectoryEntry>
+    <DirectoryEntry>
+        <Name>HSK Fabienne Supervisor</Name>
+        <Telephone>0175212244</Telephone>
+    </DirectoryEntry>
+    <DirectoryEntry>
+        <Name>Ines - MUCOX</Name>
+        <Telephone>01794809133</Telephone>
+    </DirectoryEntry>
+    <DirectoryEntry>
+        <Name>Ivana - MUCOX</Name>
+        <Telephone>015145836163</Telephone>
+    </DirectoryEntry>
+    <DirectoryEntry>
+        <Name>Kone Elevator Support</Name>
+        <Telephone>008008801188</Telephone>
+    </DirectoryEntry>
+    <DirectoryEntry>
+        <Name>Lufthansa Layovers</Name>
+        <Telephone>08997572728</Telephone>
+    </DirectoryEntry>
+    <DirectoryEntry>
+        <Name>Marijana - MUCOX</Name>
+        <Telephone>015145884734</Telephone>
+    </DirectoryEntry>
+    <DirectoryEntry>
+        <Name>Marriott Reservations Germany</Name>
+        <Telephone>008001854422</Telephone>
+    </DirectoryEntry>
+    <DirectoryEntry>
+        <Name>Marriott Reservations Hotline</Name>
+        <Telephone>00812255361011</Telephone>
+    </DirectoryEntry>
+    <DirectoryEntry>
+        <Name>Morana - MUCOX</Name>
+        <Telephone>01719933313</Telephone>
+    </DirectoryEntry>
+    <DirectoryEntry>
+        <Name>MOXY Munich Messe - MUCOM</Name>
+        <Telephone>081225683006</Telephone>
+    </DirectoryEntry>
+    <DirectoryEntry>
+        <Name>Notarzt Airport</Name>
+        <Telephone>08997563344</Telephone>
+    </DirectoryEntry>
+    <DirectoryEntry>
+        <Name>Nuno Maintenance - MUCOX</Name>
+        <Telephone>01520903623</Telephone>
+    </DirectoryEntry>
+    <DirectoryEntry>
+        <Name>Oracle Support</Name>
+        <Telephone>08914302200</Telephone>
+    </DirectoryEntry>
+    <DirectoryEntry>
+        <Name>Park Vogel</Name>
+        <Telephone>081228891361</Telephone>
+    </DirectoryEntry>
+    <DirectoryEntry>
+        <Name>Police</Name>
+        <Telephone>0110</Telephone>
+    </DirectoryEntry>
+    <DirectoryEntry>
+        <Name>Sam - MUCOX</Name>
+        <Telephone>017666984967</Telephone>
+    </DirectoryEntry>
+    <DirectoryEntry>
+        <Name>Sanja - MUCOX</Name>
+        <Telephone>017643217499</Telephone>
+    </DirectoryEntry>
+    <DirectoryEntry>
+        <Name>Senol TAXI</Name>
+        <Telephone>01638288181</Telephone>
+    </DirectoryEntry>
+    <DirectoryEntry>
+        <Name>Selimi TAXI</Name>
+        <Telephone>01774727471</Telephone>
+    </DirectoryEntry>
+    <DirectoryEntry>
+        <Name>SixStar Support</Name>
+        <Telephone>+31207038322</Telephone>
+    </DirectoryEntry>
+    <DirectoryEntry>
+        <Name>Varol - Maintenance Support</Name>
+        <Telephone>015146763767</Telephone>
+    </DirectoryEntry>
+</YealinkIPPhoneDirectory>
